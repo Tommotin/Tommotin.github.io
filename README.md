@@ -49,8 +49,16 @@ Well, do I have [the website for you][another fun place]!
 ### Blockquotes
 #### Tehtävä 1
 > "TÄMÄ ON QUOTE"
-#### Tehtävä 2
+### Lists
 
-#### Tehtävä 3
+#### Tehtävä 1
+* Maito
+* Porkkana
+* Peruna
+* Banaani
 
-#### Tehtävä 4
+### Paragraphs.
+#### Tehtävä 1
+Do I contradict myself?  
+Very well then I contradict myself,  
+(I am large, I contain multitudes.)
